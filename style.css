@@ -103,7 +103,7 @@ h3 {
   overflow: hidden;
   border: 10px solid #fff;
 
-  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 
   animation: ava-animate 5s infinite alternate;
   box-shadow: 2px 5px 10px rgba(0, 0, 0, .5);
